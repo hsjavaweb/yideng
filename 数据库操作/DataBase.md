@@ -17,17 +17,17 @@
    * ALTER TABLE Student CHANGE NAME sname varchar(20);
 
 # 增加数据操作
-   * INSERT INTO Student(id,NAME,age,sex) VALUES('1','jack','10','男');
-   * INSERT INTO Student VALUES('2','rose','11','女');
-   * INSERT INTO Student VALUES('3','tom','22','男');
-   * INSERT INTO Student VALUES('4','jerry','100','男');
-   * INSERT INTO Student VALUES('5','yideng','11','男');
-   * INSERT INTO Student VALUES('6','gaohong','22','女');
-   * INSERT INTO Student VALUES('7','qunzhu','11','女');
-   * INSERT INTO Student VALUES('8','test','44','男');
-   * INSERT INTO Student(id,age) VALUES('9','33');
-   * INSERT INTO Student(id,NAME,age) VALUES('10','yideng','22');
-   * INSERT INTO Student(id,NAME) VALUES('11','haha');
+* INSERT INTO Student(id,NAME,age,sex) VALUES('1','jack','10','男');
+* INSERT INTO Student VALUES('2','rose','11','女');
+* INSERT INTO Student VALUES('3','tom','22','男');
+* INSERT INTO Student VALUES('4','jerry','100','男');
+* INSERT INTO Student VALUES('5','yideng','11','男');
+* INSERT INTO Student VALUES('6','gaohong','22','女');
+* INSERT INTO Student VALUES('7','qunzhu','11','女');
+* INSERT INTO Student VALUES('8','test','44','男');
+* INSERT INTO Student(id,age) VALUES('9','33');
+* INSERT INTO Student(id,NAME,age) VALUES('10','yideng','22');
+* INSERT INTO Student(id,NAME) VALUES('11','haha');
 
 # 修改数据操作
 * 将名字为jerry的同学年龄改为25
